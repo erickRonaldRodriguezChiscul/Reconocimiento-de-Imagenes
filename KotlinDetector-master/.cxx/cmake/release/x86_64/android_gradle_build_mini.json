@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "C:\\Users\\User\\Documents\\probando_android\\KotlinDetector-master\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\User\\Documents\\probando_android\\KotlinDetector-master\\.cxx\\cmake\\release\\x86_64 --target clean"
+  ],
+  "libraries": {
+    "tensorflow_demo-Release-x86_64": {
+      "artifactName": "tensorflow_demo",
+      "buildCommand": "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\User\\Documents\\probando_android\\KotlinDetector-master\\.cxx\\cmake\\release\\x86_64 --target tensorflow_demo",
+      "abi": "x86_64",
+      "output": "C:\\Users\\User\\Documents\\probando_android\\KotlinDetector-master\\gradleBuild\\intermediates\\cmake\\release\\obj\\x86_64\\libtensorflow_demo.so"
+    }
+  }
+}
